@@ -1,3 +1,7 @@
+
+
+![Logo.Empresa](https://github.com/kelson00/Sistema_Gestao_de_Estoque_Electrotech/blob/main/WhatsApp%20Image%202023-12-12%20at%2020.58.54.jpeg)
+
 # Sistema_Gestao_de_Estoque_Electrotech
 Criar Um sistema que permitira a Electrotech monitorar o estoque entre a oferta e demanda.
 
